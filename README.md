@@ -1,3 +1,6 @@
+¡Bienvenidos al Repositorio de proyectos de CENARES!
+Soy el Ingeniero de Sistemas Benji Ramos Vilcapoma, Magister en Gestión pública y especialista en análisis de datos.
+
 El objetivo fundamental de los proyectos del presente repositorio es fortalecer la capacidad del "Centro Nacional de Abastecimiento de Recursos Estratégicos en Salud - CENARES" para tomar decisiones informadas y estratégicas en relación con la gestión de recursos estratégicos en el ámbito de la salud. Los esfuerzos realizados se centran en desarrollar soluciones tecnológicas que permitan a los usuarios del CENARES visualizar de manera clara y concisa el valor que aportan a sus operaciones diarias, a través de la automatización, la eficiencia en la transformación de datos y la visualización interactiva, buscamos brindar un valor tangible y sostenible al centro y, en última instancia, contribuir al bienestar de la población nacional.
 
 # PROYECTO 1: Excel de google y dashboard con data automática
@@ -6,8 +9,8 @@ El propósito de este proyecto es transferir la insformación de un servicio de 
 
 ![logo de x](https://i.postimg.cc/qBFRCCbJ/PINGUINO.jpg)
 
-## Authors
-
+## Author
+![foto de perfil](https://drive.google.com/file/d/1vGDdUKDaUoFqF4vP7K4IRDjpg2NmU_pa/view?usp=drive_link)
 - [@benramosv](https://www.github.com/benramosv)
 
 
