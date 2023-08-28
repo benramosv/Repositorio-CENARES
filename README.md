@@ -5,7 +5,7 @@ El objetivo fundamental de los proyectos del presente repositorio es fortalecer 
 
 # Proyecto 1: Excel de google y dashboard con data automática
 
-El propósito de este proyecto es transferir la información de un servicio de base de datos del CENARES hacia un spreadsheet cada media hora de forma automática, donde se realizará la limpieza, transformación y carga para su vizualización y análisis mediante tablas y dashboard. Estos dashboards y tablas ofrecen una representación visual enriquecedora de los datos, lo que permite a los usuarios explorar tendencias, identificar patrones y tomar decisiones basadas en información visualmente atractiva y fácil de interpretar. Esta capacidad de análisis visual empodera a CENARES para evaluar rápidamente la situación y tomar medidas efectivas.
+El propósito de este proyecto es transferir la información de un servicio de base de datos del CENARES hacia un excel de google cada media hora de forma automática, es decir, no se tendrá que realizar ninguna carga de datos de forma manual. En estos aplicativos se realizará la limpieza, transformación y carga de datos para su vizualización y análisis mediante tablas y dashboard. Estos dashboards y tablas ofrecen una representación visual enriquecedora de los datos, lo que permite a los usuarios explorar tendencias, identificar patrones y tomar decisiones basadas en información visualmente atractiva y fácil de interpretar. Esta capacidad de análisis visual empodera a CENARES para evaluar rápidamente la situación y tomar medidas efectivas.
 Para el "Proyecto 1" se utilizó herramientas tecnológicas de programación, cloud computing, contenedores, hojas de cálculo y visualización de datos.
 
 ![proyecto1img1](https://i.postimg.cc/YqGCZrjs/Capturass.jpg)
