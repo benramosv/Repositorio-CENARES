@@ -10,10 +10,12 @@ Para el "Proyecto 1" se utilizó herramientas tecnológicas de programación, cl
 
 ![proyecto1img1](https://i.postimg.cc/YqGCZrjs/Capturass.jpg)
 
+![proyecto1img2](https://i.postimg.cc/3N9bTY2F/AS.jpg)
+
 ## Author
 - Mag., Ing. CIP Benji Ramos Vilcapoma
 - [@benramosv](https://www.github.com/benramosv)
-![foto de perfil](https://i.postimg.cc/7hyrRkRp/Imagen-de-Whats-App-2023-08-27-a-las-23-38-27.jpg)
+- ![foto de perfil](https://i.postimg.cc/7hyrRkRp/Imagen-de-Whats-App-2023-08-27-a-las-23-38-27.jpg)
 
 
 
