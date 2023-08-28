@@ -10,7 +10,7 @@ El propósito de este proyecto es transferir la insformación de un servicio de 
 ![logo de x](https://i.postimg.cc/qBFRCCbJ/PINGUINO.jpg)
 
 ## Author
-![foto de perfil](https://drive.google.com/file/d/1vGDdUKDaUoFqF4vP7K4IRDjpg2NmU_pa/view?usp=drive_link)
+![foto de perfil](https://drive.google.com/file/d/1vGDdUKDaUoFqF4vP7K4IRDjpg2NmU_pa/view)
 - [@benramosv](https://www.github.com/benramosv)
 
 
